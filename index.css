@@ -1,6 +1,10 @@
 body {
     font-family: "Montserrat", sans-serif !important;
-    background: rgb(213, 207, 186);
+    background: wheat;
+    color: black;
+}
+
+h2 {
     color: whitesmoke;
 }
 
